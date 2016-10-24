@@ -10,7 +10,7 @@ public class GraphApp {
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
 		int choice, c1, c2, c3;
-		System.out.println("Welcome!");
+		System.out.println("Welcome!!");
 		do {
 			System.out.println("");
 			System.out.println("1 - Generate CPU time taken for preprocessing");
