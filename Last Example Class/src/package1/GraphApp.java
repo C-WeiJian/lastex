@@ -95,6 +95,7 @@ public class GraphApp {
 	}
 
 	static void init() {
+			
 		long stime, etime;
 		long t11, t12, t13, t14, t15;
 		long t21, t22, t23, t24, t25;
